@@ -1,4 +1,4 @@
-![get rickrolled... Lol]([https://media1.tenor.com/m/x8v1oNUOmg4AAAAC/rickroll-roll.gif](https://c.tenor.com/x8v1oNUOmg4AAAAC/tenor.gif))
+![Get rickrolled](https://c.tenor.com/x8v1oNUOmg4AAAAC/tenor.gif)
 
 <small>GET RICKROLLED! Lol...</small>
 
