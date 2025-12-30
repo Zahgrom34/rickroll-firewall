@@ -1,3 +1,6 @@
+![get rickrolled... Lol](https://media1.tenor.com/m/x8v1oNUOmg4AAAAC/rickroll-roll.gif)
+<small>GET RICKROLLED! Lol...</small>
+
 # Rickroll Firewall 🔒🎸
 
 An event-driven “anti-rickroll” agent built with the **Ascender Framework**. Instead of exposing HTTP endpoints, the app boots a link-monitoring graph that listens to desktop link-open events and silently blocks anything matching Rick Astley bait.
